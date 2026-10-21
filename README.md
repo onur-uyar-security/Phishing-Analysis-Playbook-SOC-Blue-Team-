@@ -1,0 +1,1 @@
+# Phishing-Analysis-Playbook-SOC-Blue-Team-
